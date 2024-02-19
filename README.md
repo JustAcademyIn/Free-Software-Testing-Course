@@ -9,7 +9,7 @@ Pursuing a software testing course equips individuals with essential skills to e
    - Choosing JustAcademy for Software Testing course ensures expert-led instruction, comprehensive resources, and practical hands-on experience. They provide Free Demo sessions of software testing courses. With personalised guidance and industry-aligned curriculum, JustAcademy equips learners to excel in software testing, paving the way for rewarding career opportunities in the dynamic field of quality assurance.
 
 ### Browse their course link : https://www.justacademy.co/all-courses 
-### To Join their FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo
+### To Join their FREE DEMO Session [Click Here](https://www.justacademy.co/register-for-course-demo)
 
 ### 2. Guru99:
    - They offer free software testing course tutorials, articles, and videos on its website. Their software testing tutorials cover manual testing concepts, automation testing tools like Selenium, test management tools, and more. Guru99 provides practical examples, step-by-step instructions, and downloadable resources for self-paced learning.
